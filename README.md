@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:octavesop@gmail.com)](mailto:octavesop@gmail.com)
-  
-  [![OCTAVESOP's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/octavesop/github-readme-stats)
+[![octavesop's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/octavesop/github-readme-stats)
