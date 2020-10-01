@@ -1,5 +1,8 @@
-### Hi there 👋
+### This is Mina Jung 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=octavesop)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cnldjqgkwk0130.tistory.com/)](https://cnldjqgkwk0130.tistory.com/)
+[![Facebook](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=github&link=https://https://www.facebook.com/profile.php?id=100015598563259)](https://www.facebook.com/profile.php?id=100015598563259)
 <!--
 **octavesop/octavesop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
