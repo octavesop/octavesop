@@ -1,7 +1,4 @@
 ### This is Mina Jung 👋
-
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cnldjqgkwk0130.tistory.com/)](https://cnldjqgkwk0130.tistory.com/)
-[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100015598563259)](https://www.facebook.com/profile.php?id=100015598563259)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:octavesop@gmail.com)](mailto:octavesop@gmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=octavesop)](https://github.com/anuraghazra/github-readme-stats)
