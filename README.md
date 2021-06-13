@@ -1,5 +1,4 @@
 ### This is Mina Jung 👋
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:octavesop@gmail.com)](mailto:octavesop@gmail.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=octavesop)](https://github.com/anuraghazra/github-readme-stats)
 
